@@ -15,7 +15,7 @@ The goal is to build an innovative WhatsApp-based service. The project aim to de
 The user input the Location and Day of the desired event they ⛳️want to attend. Just like the screenshot below, the User typed **Prague Tomorrow**, then the bot goes on to ask about the kind of events, in this case the user input **Any**. Now 5 events happening at the specified day and location will be suggested.
 
 
-![Logo](assets/App_response.jpg)
+![Logo](assets/Appresponse.jpg)
 
 ## 🛠️ Installation & Execution
 
@@ -25,5 +25,5 @@ The user input the Location and Day of the desired event they ⛳️want to atte
   ```sh
   pip install twilio requests
   ```
-![Logo](assets/tech_stack.jpg)
+![Logo](assets/techstack.jpg)
 
