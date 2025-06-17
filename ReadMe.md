@@ -11,6 +11,12 @@ Our focus was not only on coding but also coming up with a MVP at a short period
 
 The goal is to build an innovative WhatsApp-based service. The project aim to deliver interactive, real-time communication through WhatsApp, integrating multiple APIs to enhance user engagement.
 
+## 🚀 How it Works
+The user input the Location and Day of the desired event they ⛳️want to attend. Just like the screenshot below, the User typed **Prague Tomorrow**, then the bot goes on to ask about the kind of events, in this case the user input **Any**. Now 5 events happening at the specified day and location will be suggested.
+
+
+![Logo](assets/App_response.jpg)
+
 ## 🛠️ Installation & Execution
 
 ### **Requirements**
@@ -19,4 +25,5 @@ The goal is to build an innovative WhatsApp-based service. The project aim to de
   ```sh
   pip install twilio requests
   ```
+![Logo](assets/tech_stack.jpg)
 
